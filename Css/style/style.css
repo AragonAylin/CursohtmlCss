@@ -1,0 +1,15 @@
+p{
+    color:blueviolet;
+    font-size: 35px;
+}
+
+/* class */
+.parrafo{
+    color:blueviolet
+}
+
+/* ID */
+#texto{
+    color: brown;
+
+}

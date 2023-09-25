@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main h1{
+    background: violet;
+    width: 150px;
+    padding: 10px;
+    position: absolute;
+    top: 180px;
+    border-radius: 10px;
+    border: solid 2px black;
+    opacity: 0.8;
+
+}
+
+.info{
+    width: 500px;
+    background: salmon;
+    max-height: 1000px;
+    padding: 80px;
+    border-radius: 27px;
+    border: 2px solid black;
+    margin: 200px auto;
+
+}
